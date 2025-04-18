@@ -7,13 +7,21 @@ Installation
 To run the Live-Score-Cricket-Webapp locally, follow these steps:
 
 Clone the repository:
+
 git clone https://github.com/Siya1122/Live-Score-Cricket-Webapp.git
+
 Navigate to the project directory:
+
 cd Cricket App
+
 Install the dependencies:
+
 npm install
+
 Start the development server:
+
 npm start
+
 Features
 View scores from live and recent matches.
 Stay updated about schedule of upcoming matches.
